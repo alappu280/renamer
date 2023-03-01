@@ -9,7 +9,7 @@ API_ID = os.environ.get("API_ID", "9254436")
 
 API_HASH = os.environ.get("API_HASH", "42665ffe4407fbc3f59c412caa9d84d3")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5925633630:AAGKwXs05MD4TtTUTQbgmzZPymXlX7UZseI") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5925633630:AAEZVEMsis2jNyrxnC49JcVxWb-x897sWYk") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "MLZ_BOTZ") 
 
