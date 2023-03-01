@@ -13,9 +13,9 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "5925633630:AAEZVEMsis2jNyrxnC49JcVxWb-x
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "MLZ_BOTZ") 
 
-DB_NAME = os.environ.get("DB_NAME","QB:QB")     
+DB_NAME = os.environ.get("DB_NAME","irfanmama")     
 
-DB_URL = os.environ.get("DB_URL","mongodb+srv://QB:QB@cluster0.rmgqcv9.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://irfanmama:irfanmama@cluster0.amfvame.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
