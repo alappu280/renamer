@@ -6,13 +6,13 @@ API_ID = os.environ.get("API_ID", "9254436")
 
 API_HASH = os.environ.get("API_HASH", "42665ffe4407fbc3f59c412caa9d84d3")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5999105365:AAGHarGuzulh9f9HxX23PM4eTCgZIZAcwCQ") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5925633630:AAHePK4xeagl_XauSU0tTAgJmVwjxdPxeq4") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "MLZ_BOTZ") 
 
-DB_NAME = os.environ.get("DB_NAME","sui:sui")     
+DB_NAME = os.environ.get("DB_NAME","irfanmama")     
 
-DB_URL = os.environ.get("DB_URL","mongodb+srv://sui:sui@cluster0.fmobrpu.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://irfanmama:irfanmama@cluster0.amfvame.mongodb.net/?retryWrites=true&w=majority")
 
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
