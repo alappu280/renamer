@@ -30,9 +30,9 @@
 
 <a href="https://railway.app/new/template/OX7-wG"><img src="https://railway.app/button.svg" alt="Deploy"></a>
 
-## Deploy To Heroku
+## Deploy to Heroku 
 
-<a href="https://heroku.com/deploy?template=https://github.com/alappu280/renamer/blob/heroku"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alappu280/renamer)
 
 
 
