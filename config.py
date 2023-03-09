@@ -9,7 +9,7 @@ API_ID = os.environ.get("API_ID", "9254436")
 
 API_HASH = os.environ.get("API_HASH", "42665ffe4407fbc3f59c412caa9d84d3")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5925633630:AAEZVEMsis2jNyrxnC49JcVxWb-x897sWYk") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5925633630:AAHePK4xeagl_XauSU0tTAgJmVwjxdPxeq4") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "MLZ_BOTZ") 
 
@@ -21,7 +21,7 @@ FLOOD = int(os.environ.get("FLOOD", "10"))
 
 START_PIC = os.environ.get("START_PIC", "")
 
-ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '1833209093 5845960615 5596825598').split()]
+ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '1833209093 5845960615 5596825598 1957296068').split()]
 
 PORT = os.environ.get('PORT', '8080')
 
