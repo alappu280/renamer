@@ -7,31 +7,32 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "9254436"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "42665ffe4407fbc3f59c412caa9d84d3"
         },
         "FORCE_SUB": {
             "description": "Your force sub channel user name without [@] ",
-            "value": "",
+            "value": "MLZ_BOTZ",
             "required": false 
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "5925633630:AAHePK4xeagl_XauSU0tTAgJmVwjxdPxeq4"
         },
         "ADMIN": {
-            "description":"Add Your User ID multiple is use space to split"
+            "description":"Add Your User ID multiple is use space to split",
+            "value": "1833209093 5845960615 5596825598 1957296068"
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://irfanmama:irfanmama@cluster0.amfvame.mongodb.net/?retryWrites=true&w=majority"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "pyro-botz",
+            "value": "irfanmama",
             "required": false
         },
         "START_PIC": {
